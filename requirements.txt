@@ -1,3 +1,3 @@
-Flask==1.1.1
+Flask==2.3.2
 Jinja2==2.11.3
 nothing==8.7.6
