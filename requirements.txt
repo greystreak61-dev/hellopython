@@ -1,3 +1,4 @@
 Flask==1.1.1
 Jinja2==2.11.3
 nothing==8.7.6
+werkzeug>=3.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
